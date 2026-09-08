@@ -12,7 +12,7 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "BSD-3-Clause",
   "type": "module",
   "bugs": {
     "url": "https://github.com/marco19-sketch/Build-a-weather-service/issues"
